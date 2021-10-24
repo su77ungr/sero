@@ -1,6 +1,4 @@
 #!/bin/sh
-
-
 vertikal1=0; horizontal1=1; horizontal2=3; i=1; z=1
 while :
     do
@@ -22,5 +20,4 @@ while :
         break
   fi
         i=1
-
 done
