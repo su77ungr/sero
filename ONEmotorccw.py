@@ -1,4 +1,3 @@
-  GNU nano 3.2                                                             motorccw.py                                                                       
 import RPi.GPIO as GPIO
 import time
 in1 = 24
@@ -13,18 +12,8 @@ p=GPIO.PWM(en,1000)
 p.start(20)
 GPIO.output(in1,GPIO.LOW)
 GPIO.output(in2,GPIO.LOW)
-#time.sleep(0.1)
-#GPIO.output(in1,GPIO.HIGH)
-#GPIO.output(in2,GPIO.LOW)
 time.sleep(0.3)
 GPIO.cleanup()
-
-#time.sleep(5)
-#GPIO.output(in1,GPIO.LOW)
-#GPIO.output(in2,GPIO.HIGH)
-#time.sleep(0.5)
-#GPIO.output(in1,GPIO.LOW)
-#GPIO.output(in2,GPIO.LOW)
 GPIO.cleanup()
 
 
