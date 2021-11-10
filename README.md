@@ -4,10 +4,6 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV"
 
 This will be listed in several steps. 
 
-Requierements & Experience Level______
-
-- basic 
-
 Hardware point______________
 
 - raspberry pi 4 ( or other potent substitute with hdmi support ) 
