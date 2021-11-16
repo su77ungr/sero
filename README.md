@@ -5,10 +5,9 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV"
 
 worth pointing out______________
  
-- use the L298N 
-- Android 10 or higher
+- Android 10 or higher; OMX.google.h264.encoder as the best encoder for scrcpy (A50)
 - create a startup.service  
-- build the gpio script that powers the motor ( motorcw.py & motorccw.py )  
+- build the gpio script that powers the motor (motorcw.py & motorccw.py)  
 
 all rights reserved.
 
