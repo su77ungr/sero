@@ -2,7 +2,6 @@ Hi, I’m @su77ungr. He hates Emoticons.
 
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV" 
 
-This will be listed in several steps. 
 
 worth pointing out______________
  
