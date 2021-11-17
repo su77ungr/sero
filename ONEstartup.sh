@@ -13,7 +13,7 @@ if [ $ask = $connected ]
                 konsole -e sudo  /snap/bin/scrcpy --fullscreen --encoder 'OMX.google.h264.encoder' --always-on-top &
                 sudo /home/pi/y.sh &
                 sudo /home/pi/backbone.sh &
-                bluetoothctl pair D4:11:A3:22:1C:68
+                bluetoothctl pair ####
 else
        while [ $x = 5 ]
         do sleep 10;adb tcpip 5555; adb connect $z; ask=$(adb devices | tail -c 3)
@@ -23,7 +23,7 @@ else
                konsole -e sudo  /snap/bin/scrcpy  scrcpy --fullscreen --encoder 'OMX.google.h264.encoder' --always-on-top &
                sudo  /home/pi/backbone.sh
                x=$((x+1))
-               bluetoothctl pair D4:11:A3:22:1C:68
+               bluetoothctl pair ####
           fi
         done
 fi
