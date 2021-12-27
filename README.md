@@ -1,5 +1,15 @@
 Hi, I just had to register to play Halo. 
 
+
+
+
+
+
+
+
+
+
+
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV" 
 
 
