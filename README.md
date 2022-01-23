@@ -1,10 +1,8 @@
 Hi, I just had to register to play Halo. 
 
 
-
-k-2so before destruction.gif
-
 ![alt text](https://github.com/su77ungr/sero/blob/main/k-2so%20before%20destruction.gif)
+
 
 
 
