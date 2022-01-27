@@ -1,6 +1,8 @@
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
 
+
+
 - ADB (android debugging bridge) enabled and set up wireless connection https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 - easy start with scrcpy https://github.com/Genymobile/scrcpy Android 10 or higher; OMX.google.h264.encoder my recommendation. 
