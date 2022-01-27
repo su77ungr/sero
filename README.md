@@ -1,6 +1,4 @@
-I had to register to play Halo, so hi. 
-
-Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV" 
+Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
 
 - ADB (android debugging bridge) enabled and set up wireless connection https://www.xda-developers.com/install-adb-windows-macos-linux/
@@ -10,7 +8,7 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV"
 - build the backbone.sh script
 
 - backbone.sh triggers rotation when current rotation of the smartphone changes (adb shell dumpsys window | grep "mCurRotation") and changes HDMI output orientation
-- 
+
 - mechanical rotation is controlled by two .py scripts handling the GPIO outputs
 
 - setup startup.service for the backbone.sh script to run on system start
