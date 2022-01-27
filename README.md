@@ -26,7 +26,6 @@ https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-
 
 
 
-all rights reserved.![ezgif-2-2c986323cb](https://user-images.githubusercontent.com/69374354/151349884-7df4661a-d2c7-42f2-b211-56ba5cafcbaf.gif)
 
 
 <!---
