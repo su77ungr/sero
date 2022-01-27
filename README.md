@@ -17,6 +17,8 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 
 - mechanical rotation is controlled by two .py scripts handling the GPIO outputs
 
+![fritzing_schematics](https://user-images.githubusercontent.com/69374354/151350150-bf3c5ae8-dfdf-45f4-bf81-3773bc25ae13.png)
+
 - setup startup.service for the backbone.sh script to run on system start
 
 
