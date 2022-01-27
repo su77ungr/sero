@@ -1,4 +1,4 @@
-Hi, I just had to register to play Halo. 
+I had to register to play Halo, so hi. 
 
 
 ![alt text](https://github.com/su77ungr/sero/blob/main/k-2so%20before%20destruction.gif)
