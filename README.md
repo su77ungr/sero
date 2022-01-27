@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
+
 
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
@@ -22,7 +22,7 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 
 For anyone interested in the project hit me up at s77ngr@gmail.com
 
-![alt_text](https://github.com/su77ungr/sero/blob/main/redditsave.com_i_made_samsungs_rotating_tv_at_my_own-bd8tn8mmi3t71.mp4)
+https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
 
 
 
