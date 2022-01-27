@@ -18,6 +18,7 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 
 For anyone interested in the project hit me up at s77ngr@gmail.com
 
+![build overview](https://github.com/su77ungr/sero/blob/main/redditsave.com_i_made_samsungs_rotating_tv_at_my_own-bd8tn8mmi3t71.mp4)
 
 ![alt text](https://github.com/su77ungr/sero/blob/main/k-2so%20before%20destruction.gif)
 
