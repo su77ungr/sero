@@ -1,14 +1,5 @@
 I had to register to play Halo, so hi. 
 
-
-![alt text](https://github.com/su77ungr/sero/blob/main/k-2so%20before%20destruction.gif)
-
-
-
-
-
-
-
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV" 
 
 
@@ -17,6 +8,9 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV"
 
 
 for question ask at s77ngr@gmail.com
+
+
+![alt text](https://github.com/su77ungr/sero/blob/main/k-2so%20before%20destruction.gif)
 
 all rights reserved.
 
