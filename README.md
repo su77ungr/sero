@@ -45,9 +45,9 @@ https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-
 
 <h1> Reach out to me </h1>
 <br>
-For anyone interested in the project hit me up at mailto:bricksofchia@gmail.com
+For anyone interested in the project hit me up at
   <a href="mailto:bricksofchia@gmail.com">
-For anyone interested in the project hit me up at mailto:bricksofchia@gmail.com
+bricksofchia@gmail.com
   </a>
 <br><br>
 <!---
