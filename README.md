@@ -1,7 +1,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 
 
