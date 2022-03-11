@@ -20,7 +20,7 @@
 <br>
 "This is the kind of project worth setting up permanently, rather than recycling the components for future projects. It’s notably ingenuitive and shows that you don’t need name-brand hardware to get modern technology in your home." - Tom's Hardware
 
-<h2> Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. </h2>
+<p1> Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. <p1>
   
 <br><br>
 
