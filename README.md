@@ -29,8 +29,9 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 - ADB (android debugging bridge) enabled and set up wireless connection https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 
-
+<br><br>
 <h1> How to build </h1>
+<br>
 
 - build the backbone.sh script
 
@@ -40,7 +41,7 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 
 - setup startup.service for the backbone.sh script to run on system start
 
-
+<br>
 ![fritzing_schematics](https://user-images.githubusercontent.com/69374354/151350150-bf3c5ae8-dfdf-45f4-bf81-3773bc25ae13.png)
 
 <br><br>
