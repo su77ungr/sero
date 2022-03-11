@@ -3,11 +3,11 @@
     DIY Samsung 'The Sero'
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>  
-  <a href="https://twitter.com/chialisp.com">
+  <a href="https://twitter.com/chialisp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
+  <br><br>
    ![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
    [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
     
