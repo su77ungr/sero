@@ -17,9 +17,8 @@
 
 
 <h1> But why? </h1>
+<br>
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
-
-<br><br>
 <br><br>
 
 <h1> Prerequisites </h1>
