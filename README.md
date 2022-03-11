@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-
 
 <h1> Reach out to me </h1>
 <br>
-For anyone interested in the project hit me up at <a href="mailto:bricksofchia@gmail.com" class="fa fa-google"</a>
+For anyone interested in the project hit me up at <a href="mailto:bricksofchia@gmail.com"</a>
 <br><br>
 <!---
 su77ungr/su77ungr is a special repository because its `README.md` (this file) appears on your GitHub profile.
