@@ -32,10 +32,14 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 
 - setup startup.service for the backbone.sh script to run on system start
 
+
+<h1> Demo </h1>
+https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
+
+
 <h1> Reach out to me </h1>
 For anyone interested in the project hit me up at s77ngr@gmail.com
 
-https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
 
 
 <!---
