@@ -1,6 +1,6 @@
 <div id="badges" align="center">
     <h1>
-    hey there
+    DIY Samsung 'The Sero'
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>  
   <a href="https://twitter.com/chialisp.com">
