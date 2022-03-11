@@ -12,11 +12,6 @@
   </a>
 </div>
 
-<p align="center">
- <a href="https://komarev.com/ghpvc/?username=su77ungr">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-</p>
 <h1> But why? </h1>
 <br>
 "This is the kind of project worth setting up permanently, rather than recycling the components for future projects. It’s notably ingenuitive and shows that you don’t need name-brand hardware to get modern technology in your home." - Tom's Hardware
