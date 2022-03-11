@@ -1,21 +1,14 @@
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    ![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)  
-  </a>
-  <a href="your-youtube-URL">
-    [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
-  </a>
+  
   <a href="https://twitter.com/chialisp.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
-
+  
+   [![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
+   [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
+    
 <br><br><br>
-
-<div id="badges" align="center">
 
       Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
@@ -38,9 +31,6 @@
       For anyone interested in the project hit me up at s77ngr@gmail.com
 
       https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
-  
-</div>
-
 
 
 <!---
