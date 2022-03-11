@@ -1,6 +1,6 @@
 <div id="badges" align="center">
     <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
+    <img src="https://c.tenor.com/0OTlaePR8zYAAAAC/su77ungr-larissa-sero.gif" width="30px"/> <br>
     DIY Samsung 'The Sero'
     
   </h1>  
