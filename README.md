@@ -19,6 +19,9 @@
 <h1> But why? </h1>
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
+<br><br>
+<br><br>
+
 <h1> Prerequisites </h1>
 
 - ADB (android debugging bridge) enabled and set up wireless connection https://www.xda-developers.com/install-adb-windows-macos-linux/
