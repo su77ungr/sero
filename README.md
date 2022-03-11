@@ -11,10 +11,12 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-  
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
-   [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
+
+<p align="center">
+     ![Profile View Counter](https://komarev.com/ghpvc/?username=su77ungr)
     
+   [![Commits Badge](https://badges.pufler.dev/commits/monthly/su77ungr)](https://badges.pufler.dev)
+</p>
 
 
 <h1> But why? </h1>
