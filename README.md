@@ -45,10 +45,8 @@ https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-
 
 <h1> Reach out to me </h1>
 <br>
-For anyone interested in the project hit me up at s77ngr@gmail.com
+For anyone interested in the project hit me up at <a href="mailto:bricksofchia@gmail.com" class="fa fa-google"</a>
 <br><br>
-
-[![SC2 Video](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
 <!---
 su77ungr/su77ungr is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
