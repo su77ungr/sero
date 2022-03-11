@@ -22,7 +22,7 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 <br><br>
 
 <h1> Prerequisites </h1>
-
+<br>
 - ADB (android debugging bridge) enabled and set up wireless connection https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 - easy start with scrcpy https://github.com/Genymobile/scrcpy Android 10 or higher; OMX.google.h264.encoder my recommendation. 
@@ -36,15 +36,17 @@ Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to re
 ![fritzing_schematics](https://user-images.githubusercontent.com/69374354/151350150-bf3c5ae8-dfdf-45f4-bf81-3773bc25ae13.png)
 
 - setup startup.service for the backbone.sh script to run on system start
-
+<br><br>
 
 <h1> Demo </h1>
+<br>
 https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-ae26-bd4f24fdbea9.mp4
-
+<br><br>
 
 <h1> Reach out to me </h1>
+<br>
 For anyone interested in the project hit me up at s77ngr@gmail.com
-
+<br><br>
 
 
 <!---
