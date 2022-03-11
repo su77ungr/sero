@@ -20,8 +20,6 @@
 <br>
 Blog substitute for my project "DIY Samsung 'The Sero' ROTATING TV". I had to register to play Halo, so hi. 
 
-"Este proyecto, creado por el usuario de Reddit Su77ungr, le da un giro a las pantallas tradicionales en el sentido más literal posible." - Media
-
 "This is the kind of project worth setting up permanently, rather than recycling the components for future projects. It’s notably ingenuitive and shows that you don’t need name-brand hardware to get modern technology in your home." - Tom's Hardware
 
 featured in: MagPiMagazine; hackster.io; Tom's Hardware and others.  
