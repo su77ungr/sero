@@ -1,5 +1,4 @@
-[![GitHub issues open](https://img.shields.io/github/issues/su77ungr)]() 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/su77ungr)]()
+[![GitHub issues open](https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=25)](https://github.com/network-tools/su77ungr/issues)
 <div id="badges" align="center">
     <h1>
     <img src="https://c.tenor.com/0OTlaePR8zYAAAAC/su77ungr-larissa-sero.gif"/> <br>
