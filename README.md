@@ -1,3 +1,5 @@
+[![GitHub issues open](https://img.shields.io/github/issues/Manu343726/siplasplas.svg?maxAge=2592000)]() 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/Manu343726/siplasplas.svg?maxAge=2592000)]()
 <div id="badges" align="center">
     <h1>
     <img src="https://c.tenor.com/0OTlaePR8zYAAAAC/su77ungr-larissa-sero.gif"/> <br>
