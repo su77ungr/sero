@@ -1,4 +1,4 @@
-[![GitHub issues open](https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=25)](https://github.com/network-tools/su77ungr/issues)
+[![GitHub issues open](https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=250000)](https://github.com/network-tools/su77ungr/issues)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=su77ungr&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <div id="badges" align="center">
