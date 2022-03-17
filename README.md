@@ -8,10 +8,6 @@
   </h1>  
   <a href="https://twitter.com/chialisp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=43YDYoeRbvI">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
 <h1> But why? </h1>
