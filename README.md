@@ -30,7 +30,7 @@
 
 - build the backbone.sh script
 
-- backbone.sh triggers rotation when current rotation of the smartphone changes (adb shell dumpsys window | grep "mCurRotation") and changes HDMI output orientation
+- backbone.sh triggers rotation when current rotation of the smartphone changes (adb shell dumpsys window | grep "mCurRotation") and flips orientation
 
 - mechanical rotation is controlled by two .py scripts handling the GPIO outputs
 
