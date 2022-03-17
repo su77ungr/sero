@@ -53,9 +53,8 @@ https://user-images.githubusercontent.com/69374354/151349687-2470cf6f-3642-402c-
 For anyone interested in the project hit me up at
   <a href="mailto:bricksofchia@gmail.com">
 bricksofchia@gmail.com
-    
-all rights reserved. use it at your own risk. drink three liters a day. 
   </a>
+ all rights reserved. use it at your own risk. drink three liters a day. 
 <br><br>
 <!---
 su77ungr/su77ungr is a special repository because its `README.md` (this file) appears on your GitHub profile.
