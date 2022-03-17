@@ -1,4 +1,6 @@
 [![GitHub issues open](https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=25)](https://github.com/network-tools/su77ungr/issues)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 <div id="badges" align="center">
     <h1>
     <img src="https://c.tenor.com/0OTlaePR8zYAAAAC/su77ungr-larissa-sero.gif"/> <br>
