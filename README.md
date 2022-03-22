@@ -54,7 +54,7 @@ bricksofchia@gmail.com
 <br><br>
 <h1> Legals </h1>
 <br>
-All rights reserved. It's your risk. Drink three liters a day. 
+Use this repository at your own risk. An apple a day keeps the doctor away.
 <!---
 su77ungr/su77ungr is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
