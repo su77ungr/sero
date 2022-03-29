@@ -1,4 +1,7 @@
 [![GitHub issues open](https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=250000)](https://github.com/network-tools/su77ungr/issues)
+<div align="center">
+    <img src="https://img.shields.io/github/issues/network-tools/shconfparser.svg?maxAge=250000e"/>
+</div>
 
 <div id="badges" align="center">
     <h1>
